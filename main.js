@@ -16,6 +16,7 @@ for (let i = 0; i < botoes.length; i++) {
 
 const contadores = document.querySelectorAll(".contador");
 const tempoObjetivo1 = new Date("2025-12-05T00:00:00");
+const tempoObjetivo2 = new Date("2025-12-05T00:00:00")
 
 
 function calculaTempo(tempoObjetivo) {
